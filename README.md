@@ -1,2 +1,1 @@
-# assets
-assets used in github.
+assets used in [github/kamangir](https://github.com/kamangir) - revision `2.1.1`.

@@ -1,0 +1,2881 @@
+detections:
+- - detection: true
+    distance_mm: 559.380349541243
+    echo_detected: true
+    pulse_ms: 3.2616930002404843
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.2852199681183
+    echo_detected: false
+    pulse_ms: 11.401079999814101
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.2957475592812
+    echo_detected: false
+    pulse_ms: 11.424465000345663
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.4022160409186
+    echo_detected: false
+    pulse_ms: 11.413424000238592
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 738.0543660915464
+    echo_detected: true
+    pulse_ms: 4.303524000533798
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.723247624268
+    echo_detected: false
+    pulse_ms: 11.409465000724595
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.5818094976494
+    echo_detected: false
+    pulse_ms: 11.426132999986294
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.2944974791208
+    echo_detected: false
+    pulse_ms: 11.406964999878255
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.1530595084805
+    echo_detected: false
+    pulse_ms: 11.423633000049449
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.8215170988879
+    echo_detected: false
+    pulse_ms: 11.410038000576606
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.4014969862692
+    echo_detected: false
+    pulse_ms: 11.401757999919937
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.8564699789495
+    echo_detected: false
+    pulse_ms: 11.398579999877256
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 742.8778035086907
+    echo_detected: true
+    pulse_ms: 4.331649000050675
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.3116145478052
+    echo_detected: false
+    pulse_ms: 11.395403000278748
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.7419739104917
+    echo_detected: false
+    pulse_ms: 11.421235999478085
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.187309942834
+    echo_detected: false
+    pulse_ms: 11.40633999966667
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.831325479423
+    echo_detected: false
+    pulse_ms: 11.421756999880017
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.446446587961
+    echo_detected: false
+    pulse_ms: 11.407851000512892
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.0462314215292
+    echo_detected: false
+    pulse_ms: 11.428840999542444
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.6157004826673
+    echo_detected: false
+    pulse_ms: 11.403006999898935
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.5978645153118
+    echo_detected: false
+    pulse_ms: 11.402903000089282
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.0002199247938
+    echo_detected: false
+    pulse_ms: 11.41107999956148
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.3852705484096
+    echo_detected: false
+    pulse_ms: 11.424987000282272
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.776567497196
+    echo_detected: false
+    pulse_ms: 11.40394499998365
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.8671689903094
+    echo_detected: false
+    pulse_ms: 11.421965999943495
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.1423604971205
+    echo_detected: false
+    pulse_ms: 11.40024699998321
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.204786460854
+    echo_detected: false
+    pulse_ms: 11.400610999771743
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.749282598641
+    echo_detected: false
+    pulse_ms: 11.397955000575166
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.1421890769234
+    echo_detected: false
+    pulse_ms: 11.400246000448533
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.7309156057745
+    echo_detected: false
+    pulse_ms: 11.392017000616761
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.3051964904807
+    echo_detected: false
+    pulse_ms: 11.430350999944494
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.3128644719873
+    echo_detected: false
+    pulse_ms: 11.41290299983666
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.0547900338606
+    echo_detected: false
+    pulse_ms: 11.423060000197438
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.8661070952658
+    echo_detected: false
+    pulse_ms: 11.410298000555485
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.8224075737344
+    echo_detected: false
+    pulse_ms: 11.421705000429938
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.5092320010299
+    echo_detected: false
+    pulse_ms: 11.414048000006005
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.2499074827429
+    echo_detected: false
+    pulse_ms: 11.406704999899375
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.3110835222942
+    echo_detected: false
+    pulse_ms: 11.389569000129995
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.3494270375231
+    echo_detected: false
+    pulse_ms: 11.424778000218794
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.0176964428138
+    echo_detected: false
+    pulse_ms: 11.405350999666553
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1954.445555957136
+    echo_detected: false
+    pulse_ms: 11.396183999750065
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.7671184100182
+    echo_detected: false
+    pulse_ms: 11.398058999475325
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 742.9671549216437
+    echo_detected: true
+    pulse_ms: 4.332169999543112
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.9823839574383
+    echo_detected: false
+    pulse_ms: 11.410975999751827
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.857360453796
+    echo_detected: false
+    pulse_ms: 11.410246999730589
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.2761304862543
+    echo_detected: false
+    pulse_ms: 11.40102699991985
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 743.2887175305041
+    echo_detected: true
+    pulse_ms: 4.334045000177866
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.8389936169078
+    echo_detected: false
+    pulse_ms: 11.404309000681678
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1953.6148098518424
+    echo_detected: false
+    pulse_ms: 11.391339999136108
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.5889466096232
+    echo_detected: false
+    pulse_ms: 11.402851000639203
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.1423604971205
+    echo_detected: false
+    pulse_ms: 11.40024699998321
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.42843904443
+    echo_detected: false
+    pulse_ms: 11.407746000259067
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.4280794391161
+    echo_detected: false
+    pulse_ms: 11.401912999644992
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.3749309863852
+    echo_detected: false
+    pulse_ms: 11.407433999920613
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.7066615810945
+    echo_detected: false
+    pulse_ms: 11.426861000472854
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.3205324534938
+    echo_detected: false
+    pulse_ms: 11.395454999728827
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.198008954194
+    echo_detected: false
+    pulse_ms: 11.42972599973291
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.3749309863852
+    echo_detected: false
+    pulse_ms: 11.407433999920613
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.4459154064716
+    echo_detected: false
+    pulse_ms: 11.402016999454645
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.8475519172825
+    echo_detected: false
+    pulse_ms: 11.398527999517682
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.9647360192212
+    echo_detected: false
+    pulse_ms: 11.416704000112077
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.482118522672
+    echo_detected: false
+    pulse_ms: 11.408059000132198
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.78781398703
+    echo_detected: false
+    pulse_ms: 11.438995999924373
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.517259431872
+    echo_detected: false
+    pulse_ms: 11.402432999602752
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.081372642686
+    echo_detected: false
+    pulse_ms: 11.423215000831988
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.3467554570052
+    echo_detected: false
+    pulse_ms: 11.389776999749301
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.858610377978
+    echo_detected: false
+    pulse_ms: 11.427746999288502
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.4642825553165
+    echo_detected: false
+    pulse_ms: 11.407955000322545
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.072454581019
+    echo_detected: false
+    pulse_ms: 11.423163000472414
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.9993294499473
+    echo_detected: false
+    pulse_ms: 11.399412999708147
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.0555089325317
+    echo_detected: false
+    pulse_ms: 11.434725999606599
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.8751965771298
+    echo_detected: false
+    pulse_ms: 11.410351000449737
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.0373135158407
+    echo_detected: false
+    pulse_ms: 11.428789000092365
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.473200461005
+    echo_detected: false
+    pulse_ms: 11.408006999772624
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.5905559831408
+    echo_detected: false
+    pulse_ms: 11.426183999901696
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.6157004826673
+    echo_detected: false
+    pulse_ms: 11.403006999898935
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.6624310340521
+    echo_detected: false
+    pulse_ms: 11.432434000198555
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.2499074827429
+    echo_detected: false
+    pulse_ms: 11.406704999899375
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.733056004803
+    echo_detected: false
+    pulse_ms: 11.421184000028006
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.4280795950945
+    echo_detected: false
+    pulse_ms: 11.401913000554487
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.813848961403
+    echo_detected: false
+    pulse_ms: 11.427485999774945
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1950.836853061901
+    echo_detected: false
+    pulse_ms: 11.375142000360938
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.0801224065472
+    echo_detected: false
+    pulse_ms: 11.405714999455085
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.0706734753476
+    echo_detected: false
+    pulse_ms: 11.399828999856254
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.0635363633737
+    echo_detected: false
+    pulse_ms: 11.423110999203345
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.5356264247384
+    echo_detected: false
+    pulse_ms: 11.408370999561157
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.5368765048988
+    echo_detected: false
+    pulse_ms: 11.425871000028565
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.8746655516188
+    echo_detected: false
+    pulse_ms: 11.404517000300984
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.2511575629032
+    echo_detected: false
+    pulse_ms: 11.424205000366783
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.3654820551856
+    echo_detected: false
+    pulse_ms: 11.401548000321782
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.098677428552
+    echo_detected: false
+    pulse_ms: 11.417484999583394
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.3387280261632
+    echo_detected: false
+    pulse_ms: 11.401392000152555
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.519571407076
+    echo_detected: false
+    pulse_ms: 11.431600999458169
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.0439196023035
+    echo_detected: false
+    pulse_ms: 11.399673000596522
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.7423335158055
+    echo_detected: false
+    pulse_ms: 11.42706900009216
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1951.7656969096606
+    echo_detected: false
+    pulse_ms: 11.38055799947324
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.8477401023993
+    echo_detected: false
+    pulse_ms: 11.40436000059708
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.240989421076
+    echo_detected: false
+    pulse_ms: 11.406652999539801
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.7063019757807
+    echo_detected: false
+    pulse_ms: 11.42102799985878
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.1421890769234
+    echo_detected: false
+    pulse_ms: 11.400246000448533
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.5457945665657
+    echo_detected: false
+    pulse_ms: 11.425923000388138
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.8826929824609
+    echo_detected: false
+    pulse_ms: 11.392901999897731
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.8045714504005
+    echo_detected: false
+    pulse_ms: 11.42160099971079
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1952.2213725040274
+    echo_detected: false
+    pulse_ms: 11.383215000023483
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.099568059377
+    echo_detected: false
+    pulse_ms: 11.429152000346221
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1952.140938996763
+    echo_detected: false
+    pulse_ms: 11.382745999981125
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.7942320443544
+    echo_detected: false
+    pulse_ms: 11.404048000258626
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.517790457383
+    echo_detected: false
+    pulse_ms: 11.408266999751504
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.3307004393428
+    echo_detected: false
+    pulse_ms: 11.413006999646313
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.5985834139829
+    echo_detected: false
+    pulse_ms: 11.414568999498442
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1950.479446942154
+    echo_detected: false
+    pulse_ms: 11.373057999662706
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.187309942834
+    echo_detected: false
+    pulse_ms: 11.40633999966667
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.474450385187
+    echo_detected: false
+    pulse_ms: 11.425506999330537
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.1338020407675
+    echo_detected: false
+    pulse_ms: 11.406028000237711
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.367451034017
+    echo_detected: false
+    pulse_ms: 11.43071400019835
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.6699275953615
+    echo_detected: false
+    pulse_ms: 11.414985000556044
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1962.7970914980324
+    echo_detected: false
+    pulse_ms: 11.444880999988527
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.2675720299012
+    echo_detected: false
+    pulse_ms: 11.406808000174351
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.2420679250608
+    echo_detected: false
+    pulse_ms: 11.424151999563037
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1958.161274968461
+    echo_detected: false
+    pulse_ms: 11.417849999816099
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1953.8648570151054
+    echo_detected: false
+    pulse_ms: 11.392798000088078
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.4020446207214
+    echo_detected: false
+    pulse_ms: 11.413423000703915
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.4564429976344
+    echo_detected: false
+    pulse_ms: 11.425401999986207
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.105985960723
+    echo_detected: false
+    pulse_ms: 11.39420399977098
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.5909154324763
+    echo_detected: false
+    pulse_ms: 11.432016999606276
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1958.2326189938613
+    echo_detected: false
+    pulse_ms: 11.418265999964206
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.1962280045009
+    echo_detected: false
+    pulse_ms: 11.406392000026244
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.124712402925
+    echo_detected: false
+    pulse_ms: 11.405974999433965
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.6075014756498
+    echo_detected: false
+    pulse_ms: 11.414620999858016
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.9456499717053
+    echo_detected: false
+    pulse_ms: 11.399099999835016
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.9749040050701
+    echo_detected: false
+    pulse_ms: 11.434256000029563
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.6964934392672
+    echo_detected: false
+    pulse_ms: 11.409308999645873
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.3492554613476
+    echo_detected: false
+    pulse_ms: 11.424776999774622
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1958.4293295192765
+    echo_detected: false
+    pulse_ms: 11.4194130001124
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.3135835266366
+    echo_detected: false
+    pulse_ms: 11.424569000155316
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.2140641278347
+    echo_detected: false
+    pulse_ms: 11.406496000745392
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.429688968612
+    echo_detected: false
+    pulse_ms: 11.42524599981698
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.749470471801
+    echo_detected: false
+    pulse_ms: 11.403786999835575
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.233680888905
+    echo_detected: false
+    pulse_ms: 11.429933999352215
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.4628608989806
+    echo_detected: false
+    pulse_ms: 11.390453999410965
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.108845414401
+    echo_detected: false
+    pulse_ms: 11.43503699950088
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1952.3194704024718
+    echo_detected: false
+    pulse_ms: 11.383786999431322
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.8311539032475
+    echo_detected: false
+    pulse_ms: 11.421755999435845
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.4896150839813
+    echo_detected: false
+    pulse_ms: 11.390610000489687
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.5814665012767
+    echo_detected: false
+    pulse_ms: 11.426131000007445
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.1250718522606
+    echo_detected: false
+    pulse_ms: 11.411807999138546
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.8502399507634
+    echo_detected: false
+    pulse_ms: 11.439359999712906
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.7665875404855
+    echo_detected: false
+    pulse_ms: 11.392225000236067
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.357642653482
+    echo_detected: false
+    pulse_ms: 11.418995000894938
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.4011539898966
+    echo_detected: false
+    pulse_ms: 11.401755999941088
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.5368765048988
+    echo_detected: false
+    pulse_ms: 11.425871000028565
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.186778917323
+    echo_detected: false
+    pulse_ms: 11.400505999517918
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.9825719865767
+    echo_detected: false
+    pulse_ms: 11.41680799992173
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.784423507841
+    echo_detected: false
+    pulse_ms: 11.39232900004572
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.4724980152969
+    echo_detected: false
+    pulse_ms: 11.402172000089195
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.5078105006723
+    echo_detected: false
+    pulse_ms: 11.39654700000392
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.2233414828588
+    echo_detected: false
+    pulse_ms: 11.412380999900051
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.6517320226922
+    echo_detected: false
+    pulse_ms: 11.409048000132316
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.376540515881
+    echo_detected: false
+    pulse_ms: 11.430767000092601
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.2399275260323
+    echo_detected: false
+    pulse_ms: 11.394985000151792
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.3028845152767
+    echo_detected: false
+    pulse_ms: 11.401183000089077
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.3480055371656
+    echo_detected: false
+    pulse_ms: 11.407277000216709
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1952.471419511312
+    echo_detected: false
+    pulse_ms: 11.384673000065959
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.749470471801
+    echo_detected: false
+    pulse_ms: 11.403786999835575
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1953.730744029599
+    echo_detected: false
+    pulse_ms: 11.392016000172589
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.2313690696792
+    echo_detected: false
+    pulse_ms: 11.400766000406293
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1962.9579585125612
+    echo_detected: false
+    pulse_ms: 11.445819000073243
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.0893999175496
+    echo_detected: false
+    pulse_ms: 11.41159999951924
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1954.9187245224857
+    echo_detected: false
+    pulse_ms: 11.398943000131112
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.5716579647633
+    echo_detected: false
+    pulse_ms: 11.414411999794538
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.090118972199
+    echo_detected: false
+    pulse_ms: 11.423265999837895
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.1598534681034
+    echo_detected: false
+    pulse_ms: 11.400348999814014
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1962.9401225452057
+    echo_detected: false
+    pulse_ms: 11.44571500026359
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1951.6139195329743
+    echo_detected: false
+    pulse_ms: 11.37967300019227
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.3490840411505
+    echo_detected: false
+    pulse_ms: 11.424776000239945
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.400623120364
+    echo_detected: false
+    pulse_ms: 11.39592200070183
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.0893999175496
+    echo_detected: false
+    pulse_ms: 11.41159999951924
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.0537279828386
+    echo_detected: false
+    pulse_ms: 11.411391999899934
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.7687280954924
+    echo_detected: false
+    pulse_ms: 11.421392000556807
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.473029040808
+    echo_detected: false
+    pulse_ms: 11.408006000237947
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.0173534464411
+    echo_detected: false
+    pulse_ms: 11.405348999687703
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.740912015448
+    echo_detected: false
+    pulse_ms: 11.409568000090076
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.394735932572
+    echo_detected: false
+    pulse_ms: 11.436703999606834
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.5176190371858
+    echo_detected: false
+    pulse_ms: 11.408266000216827
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.0526659318166
+    echo_detected: false
+    pulse_ms: 11.399723999602429
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.5889630625861
+    echo_detected: false
+    pulse_ms: 11.408682000364934
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.383505895701
+    echo_detected: false
+    pulse_ms: 11.407483999391843
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.8746655516188
+    echo_detected: false
+    pulse_ms: 11.404517000300984
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.768196914003
+    echo_detected: false
+    pulse_ms: 11.41555799949856
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.0339394896146
+    echo_detected: false
+    pulse_ms: 11.387952999939444
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.4746384143255
+    echo_detected: false
+    pulse_ms: 11.43133899950044
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.455552522788
+    echo_detected: false
+    pulse_ms: 11.413735000132874
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.9567084324008
+    echo_detected: false
+    pulse_ms: 11.428318999605835
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.374759566188
+    echo_detected: false
+    pulse_ms: 11.407433000385936
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.7605290884749
+    echo_detected: false
+    pulse_ms: 11.433006000515888
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.0970680550345
+    echo_detected: false
+    pulse_ms: 11.3941520003209
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.4559119721234
+    echo_detected: false
+    pulse_ms: 11.419567999837454
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1958.7685563633386
+    echo_detected: false
+    pulse_ms: 11.42139099920314
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1962.2074744943347
+    echo_detected: false
+    pulse_ms: 11.441442999966966
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.4015135952104
+    echo_detected: false
+    pulse_ms: 11.407589000555163
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1976.1687751374666
+    echo_detected: false
+    pulse_ms: 11.522850000801554
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1959.6349745593216
+    echo_detected: false
+    pulse_ms: 11.426443000345898
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.99238052309
+    echo_detected: false
+    pulse_ms: 11.428527000134636
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1960.1619940231103
+    echo_detected: false
+    pulse_ms: 11.429516000134754
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 295.9379990425077
+    echo_detected: true
+    pulse_ms: 1.7255860002478585
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 225.80118751238842
+    echo_detected: true
+    pulse_ms: 1.3166250000722357
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 286.56809650874493
+    echo_detected: true
+    pulse_ms: 1.6709510000509908
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 202.175004491437
+    echo_detected: true
+    pulse_ms: 1.17886299995007
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 564.6502014947146
+    echo_detected: true
+    pulse_ms: 3.292420999969181
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 78.83700654929271
+    echo_detected: true
+    pulse_ms: 0.45969100028742105
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 52.89745992649841
+    echo_detected: true
+    pulse_ms: 0.3084399995714193
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 38.15909296827158
+    echo_detected: true
+    pulse_ms: 0.22250199981499463
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 104.31213109222881
+    echo_detected: true
+    pulse_ms: 0.6082340005377773
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 159.26416097181573
+    echo_detected: true
+    pulse_ms: 0.9286539998356602
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 257.1537884000463
+    echo_detected: true
+    pulse_ms: 1.4994389994171797
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 293.4905224551585
+    echo_detected: true
+    pulse_ms: 1.7113149997385335
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 395.6767395688985
+    echo_detected: true
+    pulse_ms: 2.3071530004017404
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 386.1279624770759
+    echo_detected: true
+    pulse_ms: 2.251474999866332
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 491.7354330186754
+    echo_detected: true
+    pulse_ms: 2.8672620001088944
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 289.5245850163519
+    echo_detected: true
+    pulse_ms: 1.6881900000953465
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 259.0920814909623
+    echo_detected: true
+    pulse_ms: 1.510740999947302
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 168.60730963253445
+    echo_detected: true
+    pulse_ms: 0.9831330007727956
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 99.52436545381715
+    echo_detected: true
+    pulse_ms: 0.5803169997307123
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 38.543081384887046
+    echo_detected: true
+    pulse_ms: 0.22474099932878744
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 53.46906938666507
+    echo_detected: true
+    pulse_ms: 0.3117729993391549
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 110.22545094783709
+    echo_detected: true
+    pulse_ms: 0.6427139996958431
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 215.43075395311462
+    echo_detected: true
+    pulse_ms: 1.2561559997266158
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 295.2859560750767
+    echo_detected: true
+    pulse_ms: 1.721784000437765
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 387.34286857516054
+    echo_detected: true
+    pulse_ms: 2.258559000438254
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 403.037004986345
+    echo_detected: true
+    pulse_ms: 2.350069999920379
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 430.33431702224334
+    echo_detected: true
+    pulse_ms: 2.5092380001296988
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 360.53690406833994
+    echo_detected: true
+    pulse_ms: 2.1022560003984836
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 358.53601343751507
+    echo_detected: true
+    pulse_ms: 2.0905889996356564
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 221.92442991035932
+    echo_detected: true
+    pulse_ms: 1.2940199994773138
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 736.4642179063594
+    echo_detected: true
+    pulse_ms: 4.294251999453991
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1950.381006047337
+    echo_detected: false
+    pulse_ms: 11.372484000276017
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 738.5990501024935
+    echo_detected: true
+    pulse_ms: 4.30670000059763
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.1241815333924
+    echo_detected: false
+    pulse_ms: 11.400141000194708
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.385646450708
+    echo_detected: false
+    pulse_ms: 11.436650999712583
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.9105255154682
+    echo_detected: false
+    pulse_ms: 11.410557000090193
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1962.046607479806
+    echo_detected: false
+    pulse_ms: 11.44050499988225
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.0433885767925
+    echo_detected: false
+    pulse_ms: 11.39383900044777
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.9820409610656
+    echo_detected: false
+    pulse_ms: 11.410973999772978
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.3389160553015
+    echo_detected: false
+    pulse_ms: 11.407224000322458
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.3139429759722
+    echo_detected: false
+    pulse_ms: 11.430401999859896
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.1147324462145
+    echo_detected: false
+    pulse_ms: 11.394254999686382
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.8400721208927
+    echo_detected: false
+    pulse_ms: 11.421808000704914
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.5447325155437
+    echo_detected: false
+    pulse_ms: 11.414255000090634
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 745.4590499291953
+    echo_detected: true
+    pulse_ms: 4.346699999587145
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.1512950117503
+    echo_detected: false
+    pulse_ms: 11.406130000068515
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.671005943368
+    echo_detected: false
+    pulse_ms: 11.432483999669785
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.2857674465922
+    echo_detected: false
+    pulse_ms: 11.412744999688584
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.8573770627372
+    echo_detected: false
+    pulse_ms: 11.416078000365815
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.481775370321
+    echo_detected: false
+    pulse_ms: 11.408056999243854
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 745.3072723965306
+    echo_detected: true
+    pulse_ms: 4.34581499939668
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.749830077115
+    echo_detected: false
+    pulse_ms: 11.40962000044965
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.6089395849485
+    echo_detected: false
+    pulse_ms: 11.437953000495327
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1948.7196855689035
+    echo_detected: false
+    pulse_ms: 11.36279700040177
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.0373301247819
+    echo_detected: false
+    pulse_ms: 11.434620000727591
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.6501389461591
+    echo_detected: false
+    pulse_ms: 11.391545999686059
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.9028575339617
+    echo_detected: false
+    pulse_ms: 11.428005000198027
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 105.553619487182
+    echo_detected: true
+    pulse_ms: 0.6154729999252595
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.260092077533
+    echo_detected: false
+    pulse_ms: 11.430088000452088
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 37.1318080697165
+    echo_detected: true
+    pulse_ms: 0.2165120004065102
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.0016580340925
+    echo_detected: false
+    pulse_ms: 11.43441200019879
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 129.17088460244486
+    echo_detected: true
+    pulse_ms: 0.7531830005973461
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 225.88144959945566
+    echo_detected: true
+    pulse_ms: 1.3170930005799164
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 242.674386510771
+    echo_detected: true
+    pulse_ms: 1.4150110000628047
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.062303048133
+    echo_detected: false
+    pulse_ms: 11.411442000280658
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 297.84953794842295
+    echo_detected: true
+    pulse_ms: 1.7367319996992592
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 253.83080460278507
+    echo_detected: true
+    pulse_ms: 1.4800630005993298
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 154.12790743130245
+    echo_detected: true
+    pulse_ms: 0.8987049995994312
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 746.4863349837287
+    echo_detected: true
+    pulse_ms: 4.352689999905124
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 32.99608555471423
+    echo_detected: true
+    pulse_ms: 0.1923970003190334
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.0278808816256
+    echo_detected: false
+    pulse_ms: 11.42873399930977
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 129.11720496822454
+    echo_detected: true
+    pulse_ms: 0.7528699998147204
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.9479785558506
+    echo_detected: false
+    pulse_ms: 11.43409900032566
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 270.6774209923424
+    echo_detected: true
+    pulse_ms: 1.5782939999553491
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 295.23244801703186
+    echo_detected: true
+    pulse_ms: 1.7214720000993111
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 295.08067048436715
+    echo_detected: true
+    pulse_ms: 1.7205869999088463
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1952.8998265041082
+    echo_detected: false
+    pulse_ms: 11.387171000023955
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 154.44947004016285
+    echo_detected: true
+    pulse_ms: 0.9005800002341857
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.6795643997211
+    echo_detected: false
+    pulse_ms: 11.426702999415284
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 34.09488589886678
+    echo_detected: true
+    pulse_ms: 0.1988039994103019
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.019494001448
+    echo_detected: false
+    pulse_ms: 11.434516000008443
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 77.17568591488089
+    echo_detected: true
+    pulse_ms: 0.45000399950367864
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 193.53757843236963
+    echo_detected: true
+    pulse_ms: 1.1284989996056538
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 209.42808252857503
+    echo_detected: true
+    pulse_ms: 1.2211550001666183
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 289.30129203808974
+    echo_detected: true
+    pulse_ms: 1.6868880002220976
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 259.87806602370256
+    echo_detected: true
+    pulse_ms: 1.5153240001382073
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 265.99684304619586
+    echo_detected: true
+    pulse_ms: 1.5510020002693636
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 193.65351245414786
+    echo_detected: true
+    pulse_ms: 1.1291749997326406
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 115.2006658976461
+    echo_detected: true
+    pulse_ms: 0.6717239994031843
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.740380989937
+    echo_detected: false
+    pulse_ms: 11.403733999941323
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 58.04245995250312
+    echo_detected: true
+    pulse_ms: 0.3384399997230503
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.5613185587172
+    echo_detected: false
+    pulse_ms: 11.396859000342374
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 151.2605990724296
+    echo_detected: true
+    pulse_ms: 0.8819860004223301
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 183.60464150373446
+    echo_detected: true
+    pulse_ms: 1.0705810000217753
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 207.0432034811347
+    echo_detected: true
+    pulse_ms: 1.2072489998899982
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 293.29398350591873
+    echo_detected: true
+    pulse_ms: 1.7101690000345116
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 177.79868060461013
+    echo_detected: true
+    pulse_ms: 1.0367270006099716
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 158.91550164951695
+    echo_detected: true
+    pulse_ms: 0.926621000871819
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 71.95899902308156
+    echo_detected: true
+    pulse_ms: 0.41958600013458636
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1951.9351389894837
+    echo_detected: false
+    pulse_ms: 11.38154599993868
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 86.35796756107084
+    echo_detected: true
+    pulse_ms: 0.5035450003560982
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.678314475539
+    echo_detected: false
+    pulse_ms: 11.40920299985737
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 157.8703804716497
+    echo_detected: true
+    pulse_ms: 0.9205269998346921
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.427376993408
+    echo_detected: false
+    pulse_ms: 11.396077999961562
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 200.24580103836342
+    echo_detected: true
+    pulse_ms: 1.1676140002236934
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 244.3893866234248
+    echo_detected: true
+    pulse_ms: 1.4250110007196781
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 199.72769948026325
+    echo_detected: true
+    pulse_ms: 1.164592999884917
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 179.28146952135648
+    echo_detected: true
+    pulse_ms: 1.0453730001245276
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 97.6843419934994
+    echo_detected: true
+    pulse_ms: 0.5695879999620956
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.4272054172325
+    echo_detected: false
+    pulse_ms: 11.39607699951739
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 28.32442551425629
+    echo_detected: true
+    pulse_ms: 0.16515700008312706
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1958.098506008355
+    echo_detected: false
+    pulse_ms: 11.417484000048717
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 92.43198301101074
+    echo_detected: true
+    pulse_ms: 0.5389620000642026
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 163.38170452308987
+    echo_detected: true
+    pulse_ms: 0.9526630001346348
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 161.98843859547196
+    echo_detected: true
+    pulse_ms: 0.9445390005566878
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.9372795444906
+    echo_detected: false
+    pulse_ms: 11.41071300025942
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 158.7460595696939
+    echo_detected: true
+    pulse_ms: 0.9256330004063784
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.5447323595654
+    echo_detected: false
+    pulse_ms: 11.41425499918114
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 28.297843061409367
+    echo_detected: true
+    pulse_ms: 0.1650020003580721
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.5429514098723
+    echo_detected: false
+    pulse_ms: 11.390920999474474
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 18.766902092920645
+    echo_detected: true
+    pulse_ms: 0.10942800054181134
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1958.4557405519263
+    echo_detected: false
+    pulse_ms: 11.419567000302777
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 166.07939953792084
+    echo_detected: true
+    pulse_ms: 0.9683930002211127
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 229.47231652733535
+    echo_detected: true
+    pulse_ms: 1.3380310001593898
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 261.8252770203071
+    echo_detected: true
+    pulse_ms: 1.5266780001184088
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 244.73770310532927
+    echo_detected: true
+    pulse_ms: 1.4270420006141649
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 261.26258546582903
+    echo_detected: true
+    pulse_ms: 1.5233969998007524
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 184.2834385001879
+    echo_detected: true
+    pulse_ms: 1.0745390000010957
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 129.760330029967
+    echo_detected: true
+    pulse_ms: 0.7566200001747347
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.0623028921545
+    echo_detected: false
+    pulse_ms: 11.411441999371164
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 23.509906002800562
+    echo_detected: true
+    pulse_ms: 0.1370840000163298
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.615545515433
+    echo_detected: false
+    pulse_ms: 11.408837000089989
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 111.6902324770308
+    echo_detected: true
+    pulse_ms: 0.6512549998660688
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.9105255154682
+    echo_detected: false
+    pulse_ms: 11.410557000090193
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 221.54935955541077
+    echo_detected: true
+    pulse_ms: 1.291833000323095
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 227.5875314944642
+    echo_detected: true
+    pulse_ms: 1.3270409999677213
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 221.68330096474165
+    echo_detected: true
+    pulse_ms: 1.292613999794412
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1954.9898969717106
+    echo_detected: false
+    pulse_ms: 11.399357999835047
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 117.39792390153525
+    echo_detected: true
+    pulse_ms: 0.6845359994258615
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.9103539392927
+    echo_detected: false
+    pulse_ms: 11.410555999646022
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 37.98038998638731
+    echo_detected: true
+    pulse_ms: 0.2214599999206257
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1959.0364396499353
+    echo_detected: false
+    pulse_ms: 11.422953000874259
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.340354008622
+    echo_detected: false
+    pulse_ms: 11.430556000050274
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 86.86732247770124
+    echo_detected: true
+    pulse_ms: 0.506514999869978
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1963.020041479922
+    echo_detected: false
+    pulse_ms: 11.446180999882927
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 141.60480602049574
+    echo_detected: true
+    pulse_ms: 0.8256840001195087
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.714346015564
+    echo_detected: false
+    pulse_ms: 11.415244000090752
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 124.84771246408854
+    echo_detected: true
+    pulse_ms: 0.7279749997906038
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.1962444574638
+    echo_detected: false
+    pulse_ms: 11.412222999751975
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 52.084550100516935
+    echo_detected: true
+    pulse_ms: 0.3037000005861046
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1963.2345879726927
+    echo_detected: false
+    pulse_ms: 11.447431999840774
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 29.21759758328335
+    echo_detected: true
+    pulse_ms: 0.1703650004856172
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.3135999795995
+    echo_detected: false
+    pulse_ms: 11.430399999881047
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 89.78796747442175
+    echo_detected: true
+    pulse_ms: 0.5235449998508557
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.9635023920237
+    echo_detected: false
+    pulse_ms: 11.4050349993704
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 159.30875096819364
+    echo_detected: true
+    pulse_ms: 0.9289139998145401
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 738.4471009936533
+    echo_detected: true
+    pulse_ms: 4.305813999962993
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 126.72340801509563
+    echo_detected: true
+    pulse_ms: 0.7389120000880212
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 736.1335661275916
+    echo_detected: true
+    pulse_ms: 4.2923240007439745
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 38.65026907715219
+    echo_detected: true
+    pulse_ms: 0.225366000449867
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 744.3247490705289
+    echo_detected: true
+    pulse_ms: 4.340086000411247
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 33.03175748942522
+    echo_detected: true
+    pulse_ms: 0.19260499993833946
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.866842602878
+    echo_detected: false
+    pulse_ms: 11.427795000599872
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 76.82719801277926
+    echo_detected: true
+    pulse_ms: 0.44797200007451465
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 735.0706089823689
+    echo_detected: true
+    pulse_ms: 4.286125999897195
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 126.6520639896953
+    echo_detected: true
+    pulse_ms: 0.7384959999399143
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.722904471917
+    echo_detected: false
+    pulse_ms: 11.40946299983625
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 158.16536047168483
+    echo_detected: true
+    pulse_ms: 0.922246999834897
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1954.7844399608039
+    echo_detected: false
+    pulse_ms: 11.398159999771451
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 111.15429495157514
+    echo_detected: true
+    pulse_ms: 0.6481299997176393
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 738.6079680081821
+    echo_detected: true
+    pulse_ms: 4.306752000047709
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 168.08029001276736
+    echo_detected: true
+    pulse_ms: 0.9800600000744453
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.357830526642
+    echo_detected: false
+    pulse_ms: 11.424827000155346
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 28.163730075903004
+    echo_detected: true
+    pulse_ms: 0.16422000044258311
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.671365548682
+    echo_detected: false
+    pulse_ms: 11.43831700028386
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 18.59711701672495
+    echo_detected: true
+    pulse_ms: 0.10843800009752158
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 737.946835558887
+    echo_detected: true
+    pulse_ms: 4.302897000343364
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 37.78385103714754
+    echo_detected: true
+    pulse_ms: 0.22031400021660374
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1955.016651000733
+    echo_detected: false
+    pulse_ms: 11.399514000004274
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 124.05263844948422
+    echo_detected: true
+    pulse_ms: 0.7233389997054473
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.8222524505218
+    echo_detected: false
+    pulse_ms: 11.427534999711497
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 157.59357959132103
+    echo_detected: true
+    pulse_ms: 0.9189130005324841
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.2779278889102
+    echo_detected: false
+    pulse_ms: 11.430191999352246
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 149.88499753599172
+    echo_detected: true
+    pulse_ms: 0.8739650002098642
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.9199908996306
+    echo_detected: false
+    pulse_ms: 11.422273999414756
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 53.674526553550095
+    echo_detected: true
+    pulse_ms: 0.31297100031224545
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.7334320630798
+    echo_detected: false
+    pulse_ms: 11.432848000367812
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 29.20885109779192
+    echo_detected: true
+    pulse_ms: 0.17031400057021528
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.3744165698154
+    echo_detected: false
+    pulse_ms: 11.407431000407087
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 33.89834694962701
+    echo_detected: true
+    pulse_ms: 0.19765799970627995
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.4926625667977
+    echo_detected: false
+    pulse_ms: 11.43727500038949
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 81.93652594809464
+    echo_detected: true
+    pulse_ms: 0.47776399969734484
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.1889359252928
+    echo_detected: false
+    pulse_ms: 11.43550399956439
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 115.78136499565517
+    echo_detected: true
+    pulse_ms: 0.6751099999746657
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 739.4028704466109
+    echo_detected: true
+    pulse_ms: 4.311386999688693
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 100.94455698663296
+    echo_detected: true
+    pulse_ms: 0.5885979999220581
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.8944869507686
+    echo_detected: false
+    pulse_ms: 11.439617999712937
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 38.90923399012536
+    echo_detected: true
+    pulse_ms: 0.2268759999424219
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 737.2143589282132
+    echo_detected: true
+    pulse_ms: 4.298625999581418
+    reason: ''
+    side: left
+  - detection: false
+    distance_mm: 0.0
+    echo_detected: false
+    pulse_ms: 0.0
+    reason: pulse timeout
+    side: right
+- - detection: true
+    distance_mm: 741.1089524975978
+    echo_detected: true
+    pulse_ms: 4.321334999985993
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 47.25219462170571
+    echo_detected: true
+    pulse_ms: 0.2755230007096543
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 739.8672925264691
+    echo_detected: true
+    pulse_ms: 4.314095000154339
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 102.53453359564446
+    echo_detected: true
+    pulse_ms: 0.5978690005576937
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1960.322346465091
+    echo_detected: false
+    pulse_ms: 11.430450999796449
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 116.09383796667316
+    echo_detected: true
+    pulse_ms: 0.6769319998056744
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1956.3922525371709
+    echo_detected: false
+    pulse_ms: 11.40753500021674
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 73.33460055951946
+    echo_detected: true
+    pulse_ms: 0.42760700034705224
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1959.393502461353
+    echo_detected: false
+    pulse_ms: 11.425034999774653
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 25.787597513954097
+    echo_detected: true
+    pulse_ms: 0.150365000081365
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 742.8596245449626
+    echo_detected: true
+    pulse_ms: 4.331543000262172
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 24.47459351742509
+    echo_detected: true
+    pulse_ms: 0.14270900010160403
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 736.9732299825955
+    echo_detected: true
+    pulse_ms: 4.297219999898516
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 168.7680049149094
+    echo_detected: true
+    pulse_ms: 0.9840699995038449
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 222.39794147208158
+    echo_detected: true
+    pulse_ms: 1.2967809998372104
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 208.81188291605213
+    echo_detected: true
+    pulse_ms: 1.217561999510508
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 294.0175420749256
+    echo_detected: true
+    pulse_ms: 1.7143880004368839
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 235.85005846280183
+    echo_detected: true
+    pulse_ms: 1.375218999783101
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 214.20692994934143
+    echo_detected: true
+    pulse_ms: 1.2490199997046147
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 139.8896344876448
+    echo_detected: true
+    pulse_ms: 0.815682999927958
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 86.28662353567051
+    echo_detected: true
+    pulse_ms: 0.5031290002079913
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 59.927073565177125
+    echo_detected: true
+    pulse_ms: 0.34942900038004154
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 73.34351846520804
+    echo_detected: true
+    pulse_ms: 0.4276589997971314
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 135.61105250164474
+    echo_detected: true
+    pulse_ms: 0.7907350000095903
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 220.7096953884502
+    echo_detected: true
+    pulse_ms: 1.2869369993495638
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 276.45662801842263
+    echo_detected: true
+    pulse_ms: 1.6119920001074206
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 357.2406739881444
+    echo_detected: true
+    pulse_ms: 2.083035999930871
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 339.0635604750969
+    echo_detected: true
+    pulse_ms: 1.9770469998547924
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 272.54419848168254
+    echo_detected: true
+    pulse_ms: 1.5891789998931927
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 196.3153641140707
+    echo_detected: true
+    pulse_ms: 1.1446960006651352
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 93.44143209818867
+    echo_detected: true
+    pulse_ms: 0.5448480005725287
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 43.55414000156088
+    echo_detected: true
+    pulse_ms: 0.25396000000910135
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 72.78991654857236
+    echo_detected: true
+    pulse_ms: 0.4244310002832208
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 132.24347839604889
+    echo_detected: true
+    pulse_ms: 0.771098999393871
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 482.3921129377595
+    echo_detected: true
+    pulse_ms: 2.8127819996370818
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 292.865404936947
+    echo_detected: true
+    pulse_ms: 1.7076699996323441
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 339.76911150057276
+    echo_detected: true
+    pulse_ms: 1.9811610000033397
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 316.2592054977722
+    echo_detected: true
+    pulse_ms: 1.84407699998701
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 243.90695700003562
+    echo_detected: true
+    pulse_ms: 1.4221980000002077
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 124.59732246043131
+    echo_detected: true
+    pulse_ms: 0.7265149997692788
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 42.74140159577655
+    echo_detected: true
+    pulse_ms: 0.24922100055846386
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 33.98752709836117
+    echo_detected: true
+    pulse_ms: 0.19817800057353452
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 78.4530179766989
+    echo_detected: true
+    pulse_ms: 0.45745199986413354
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 156.5038685730542
+    echo_detected: true
+    pulse_ms: 0.912559000425972
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 271.9456635722963
+    echo_detected: true
+    pulse_ms: 1.585689000421553
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 293.51727664015925
+    echo_detected: true
+    pulse_ms: 1.7114710008172551
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 372.5419040770248
+    echo_detected: true
+    pulse_ms: 2.1722560004491243
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 297.5368935572078
+    echo_detected: true
+    pulse_ms: 1.7349090003335732
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 262.6738589369779
+    echo_detected: true
+    pulse_ms: 1.5316259996325243
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 176.17286048471215
+    echo_detected: true
+    pulse_ms: 1.027246999910858
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 105.90210754526197
+    echo_detected: true
+    pulse_ms: 0.6175050002639182
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 47.26111252739429
+    echo_detected: true
+    pulse_ms: 0.27557500015973346
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 43.70608895442274
+    echo_detected: true
+    pulse_ms: 0.2548459997342434
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 123.82025598935797
+    echo_detected: true
+    pulse_ms: 0.7219839999379474
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 221.62979306267516
+    echo_detected: true
+    pulse_ms: 1.2923020003654528
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 294.5267254153805
+    echo_detected: true
+    pulse_ms: 1.7173569995065918
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 388.0038296042585
+    echo_detected: true
+    pulse_ms: 2.2624130006079213
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 355.74896700973113
+    echo_detected: true
+    pulse_ms: 2.0743380000567413
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 363.1183219090417
+    echo_detected: true
+    pulse_ms: 2.117307999469631
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 254.5006835375716
+    echo_detected: true
+    pulse_ms: 1.4839690002190764
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 185.7394735438902
+    echo_detected: true
+    pulse_ms: 1.0830290002559195
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 96.51419746796819
+    echo_detected: true
+    pulse_ms: 0.5627649998132256
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 735.7226519497999
+    echo_detected: true
+    pulse_ms: 4.289927999707288
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.6954479971864
+    echo_detected: false
+    pulse_ms: 11.403471999983594
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1961.9390769471465
+    echo_detected: false
+    pulse_ms: 11.439877999691817
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1955.4273934463708
+    echo_detected: false
+    pulse_ms: 11.401908999687294
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 746.1110928966264
+    echo_detected: true
+    pulse_ms: 4.350501999397238
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.597537971902
+    echo_detected: false
+    pulse_ms: 11.408731999836164
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1958.4734049431063
+    echo_detected: false
+    pulse_ms: 11.419669999668258
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1959.3487410447779
+    echo_detected: false
+    pulse_ms: 11.424774000261095
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 742.4754645521716
+    echo_detected: true
+    pulse_ms: 4.329303000304208
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1956.3922525371709
+    echo_detected: false
+    pulse_ms: 11.40753500021674
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1962.6626355161534
+    echo_detected: false
+    pulse_ms: 11.444097000094189
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1953.8108345404908
+    echo_detected: false
+    pulse_ms: 11.392483000236098
+    reason: ''
+    side: right
+- - detection: true
+    distance_mm: 1957.1245575916691
+    echo_detected: false
+    pulse_ms: 11.411805000534514
+    reason: ''
+    side: left
+  - detection: true
+    distance_mm: 1957.0084519937154
+    echo_detected: false
+    pulse_ms: 11.411127999963355
+    reason: ''
+    side: right
